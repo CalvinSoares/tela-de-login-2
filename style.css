@@ -3,8 +3,8 @@
 :root {
     --color-light-50: #f8fafc;
 
-    --color-dark-50: #797984;
-    --color-dark-100: #312d37;
+    --color-dark-50: #797985;
+    --color-dark-100: #312d38;
     --color-dark-900: #000;
 
     --color-purple-50: #7c3aed;
@@ -51,7 +51,7 @@
 }
 
 #form_header h1 {
-    font-size: 40px;
+    font-size: 41px;
     position: relative;
 }
 
